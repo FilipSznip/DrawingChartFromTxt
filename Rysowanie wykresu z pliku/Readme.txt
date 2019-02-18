@@ -1,0 +1,1 @@
+Measurement files are located in "...\DrawingChartFromTxt\Rysowanie wykresu z pliku\Measurement files".

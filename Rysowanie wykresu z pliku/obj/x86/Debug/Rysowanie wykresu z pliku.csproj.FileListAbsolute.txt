@@ -1,0 +1,40 @@
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.exe
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.pdb
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Form1.resources
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.exe
+c:\users\patryk\documents\visual studio 2010\Projects\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.pdb
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.exe
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.pdb
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.exe
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.pdb
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csprojResolveAssemblyReference.cache
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Form1.resources
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Properties.Resources.resources
+E:\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.exe
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.pdb
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.exe
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.pdb
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Form1.resources
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Properties.Resources.resources
+C:\Users\Admin\Desktop\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.GenerateResource.Cache
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.exe
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.pdb
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.exe
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.pdb
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csprojResolveAssemblyReference.cache
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Form1.resources
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Properties.Resources.resources
+C:\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\bin\Debug\Rysowanie wykresu z pliku.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie_wykresu_z_pliku.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Backup Files\Programowanie Apk\Rysowanie wykresu z pliku\Rysowanie wykresu z pliku\obj\x86\Debug\Rysowanie wykresu z pliku.pdb
